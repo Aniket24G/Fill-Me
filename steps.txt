@@ -1,0 +1,5 @@
+pick empty box, loop through the board to find empty square
+try all nos, using for loop
+find a no that fits
+repeat
+backtrack = go to previous empty square n try the no other tha what we entered earlier and find that if it fits, again if necessary move to previous box and keep trying this way eventually we complete a single empty square
